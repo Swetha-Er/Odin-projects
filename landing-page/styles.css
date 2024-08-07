@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: 450px;
+    height: 600px;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.flex-item-1{
+    margin-right: 25px;
+}
+
+a {
+    color: #007185;
+}
+
+.bread-crumbs{
+    color: #565959;
+}
